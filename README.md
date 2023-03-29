@@ -24,6 +24,15 @@ $ git commit -m 'descricao do commit' exemplo.txt
 # enviar mudanças para o repositório
 $ git push
 
+# criar tag
+$ git tag -m 'descricao da tag' 0.0.1
+
+# dar push na tag
+$ git push --tags
+
+# listar tags criadas no repositório
+$ git tag -l
+
 # criar nova branch localmente
 $ git checkout -b nome-da-branch
 
