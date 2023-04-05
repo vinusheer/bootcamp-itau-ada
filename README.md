@@ -13,7 +13,7 @@ Esse repositório possui uma aplicação de Backend e uma de Frontend, ambas pre
 6. Os Dockerfile estão dentro da pasta de cada aplicação;
 
 #### Observações sobre a app de Frontend:
-1. Essa app só requer dois passos: rodar os testes e build da imagem Docker;
+- Essa app só requer dois passos: rodar os testes e build da imagem Docker:
 ```sh
 # as dependencias necessarias sao o npm e a angular-cli
 $ apt-get update && apt-get -y install npm
@@ -24,7 +24,7 @@ $ ng test
 ```
 
 #### Observações sobre a app de Backend:
-1. Essa app requer três passos: rodar os testes, build do java e build da imagem Docker;
+- Essa app requer três passos: rodar os testes, build do java e build da imagem Docker:
 ```sh
 # a principal dependencia a ser instalada e o maven
 $ apt-get update && apt-get -y install maven
