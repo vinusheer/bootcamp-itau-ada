@@ -14,7 +14,6 @@ Esse repositório possui uma aplicação de Backend e uma de Frontend, ambas pre
 
 #### Observações sobre a app de Frontend:
 1. Essa app só requer dois passos: rodar os testes e build da imagem Docker;
-2. Comandos para os passos:
 ```sh
 # as dependencias necessarias sao o npm e a angular-cli
 $ apt-get update && apt-get -y install npm
