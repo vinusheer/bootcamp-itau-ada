@@ -35,6 +35,9 @@ $ mvn clean test
 # build do java
 $ mvn clean package
 ```
+#### Links úteis:
+- Repositório com alguns exemplos de Actions: https://github.com/andre177/desafio-devops-letscode
+- Documentação do Github Actions: https://docs.github.com/pt/actions
 ---
 
 ## Observações gerais do projeto
