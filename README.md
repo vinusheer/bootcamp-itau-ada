@@ -39,7 +39,6 @@ $ mvn clean package
 - Repositório com alguns exemplos de Actions: https://github.com/andre177/desafio-devops-letscode
 - Documentação do Github Actions: https://docs.github.com/pt/actions
 ---
-
 ## Observações gerais do projeto
 1. A apresentação pode ser feita por apenas um integrante do grupo, bem como a entrega. Apenas um integrante subirá o link do repo onde o projeto foi feito no Class, lembrando de adicionar na resposta o nome dos outros integrantes do grupo;
 2. Dentro do Class, a tarefa do projeto estará na aula 7 - GitHub Actions;
